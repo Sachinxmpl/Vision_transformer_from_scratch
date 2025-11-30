@@ -20,9 +20,11 @@ It follows the approach introduced in the paper:
 ---
 
 ## 📂 Project Structure
+```
 vision_transformers_from_scratch/
-│── dataset.py # CIFAR-10 dataloaders
-│── train.py # Training loop 
+│── dataset.py 
+│── train.py 
 │── models/
-│ └── ViT.py # Vision Transformer implementation
-│── best_vit_cifar10.pth # Saved best model after training 
+│ └── ViT.py 
+│── best_vit_cifar10.pth  
+```
